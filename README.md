@@ -1,3 +1,7 @@
+# About the project:
+
+This project is a simple Video Streaming Application, with the design of the most popularly used Streaming Application Youtube. This application fetches the video by means of the publicly available Youtube V3 API, which I made it available, by creating project in firebase Signed In with my Google Credentials. And then access these API from the Google Cloud Platform and enable it for the created Project. Make sure to create a account and use the API Credentials to access the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
